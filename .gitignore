@@ -1,0 +1,12 @@
+02_image/_tensorflow/catdog.h5
+*.h5
+
+.ipynb_checkpoints/
+.idea/
+.vscode/
+__pycache__/
+
+data/
+99_raw_data/
+
+.DS_Store

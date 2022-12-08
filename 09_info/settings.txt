@@ -1,0 +1,10 @@
+conda install -c apple tensorflow-deps
+pip install tensorflow-macos
+pip install tensorflow-metal
+
+pip install numpy --upgrade
+pip install scipy --upgrade
+
+conda install pytorch torchvision torchaudio -c pytorch
+
+torch.backends.mps.is_available()
