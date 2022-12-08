@@ -11,3 +11,8 @@
 - Model Ensemble
 - L1, L2 Regulation
 - Early stopping
+
+2. loss
+- keras
+-   - sparse_categorical_crossentropy : "Not OHE multiple classification"
+-   - cateogircal_crossentropy : "OHE multiple classification"
