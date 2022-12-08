@@ -1,5 +1,7 @@
 *.h5
-
+*.jpg
+*.png
+img_data/
 .ipynb_checkpoints/
 .idea/
 .vscode/
