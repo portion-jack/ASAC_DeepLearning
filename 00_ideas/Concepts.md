@@ -16,3 +16,11 @@
 - keras
 -   - sparse_categorical_crossentropy : "Not OHE multiple classification"
 -   - cateogircal_crossentropy : "OHE multiple classification"
+
+
+3. Image
+-   - Convolution Neural Network
+-   - MaxPooling
+-   -
+-   - Image augmentation
+-
