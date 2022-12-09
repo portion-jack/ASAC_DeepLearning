@@ -1,13 +1,16 @@
 *.h5
 *.jpg
 *.png
+*.mp4
+
+yolo_v4_tf_keras/
 img_data/
+data/
+99_raw_data/
+
 .ipynb_checkpoints/
 .idea/
 .vscode/
 __pycache__/
-
-data/
-99_raw_data/
 
 .DS_Store
