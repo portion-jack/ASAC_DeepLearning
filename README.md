@@ -24,7 +24,12 @@
 - Logistic regression (binary classification)
 - SoftMax (multiple classification)
 - Basic Deep layers
-- CNN => todo
+- CNN
+
+### Utils
+- DataLoader
+-   - tensorflow
+-   - pytorch
 
 
 ```

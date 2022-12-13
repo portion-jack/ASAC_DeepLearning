@@ -1,3 +1,8 @@
+# if you are using conda and pip
+## installing order might be important
+
+
+
 conda install -c apple tensorflow-deps
 pip install tensorflow-macos
 pip install tensorflow-metal
