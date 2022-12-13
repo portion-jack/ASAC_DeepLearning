@@ -2,6 +2,7 @@
 *.jpg
 *.png
 *.mp4
+*.zip
 
 yolo_v4_tf_keras/
 img_data/
